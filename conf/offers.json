@@ -1,0 +1,4 @@
+{
+  "A": {"itemCode":"A","quantity":3,"discount": 20},
+  "B": {"itemCode":"B","quantity":2,"discount": 15}
+}

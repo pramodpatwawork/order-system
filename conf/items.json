@@ -1,0 +1,6 @@
+{
+  "A": {"code":"A","name":"Milk","price": 50,"unit":"litre"},
+  "B": {"code":"B","name":"Sugar","price": 30,"unit":"kg"},
+  "C": {"code":"C","name":"TEA","price": 20,"unit":"kg"},
+  "D": {"code":"D","name":"OIL","price": 15,"unit":"litre"}
+}
